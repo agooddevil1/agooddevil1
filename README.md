@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agooddevil1
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning advance css and javascript
+- 🌱 I’m currently learning advance css and javascript and Reactjs
 - 💞️ I’m looking to collaborate on web development society.
 - 📫 How to reach me lilgolu2000@gmail.com
 
